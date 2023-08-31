@@ -1,3 +1,4 @@
+![logo](https://github.com/Aseem2004/Aseem2004/blob/main/Background%20img.jpg)
 <h1 align="center">Bonjour 👋, I'm Aseem Jain</h1>
 <h3 align="center">A passionate frontend developer | Competitive Coder | Learner</h3>
 
