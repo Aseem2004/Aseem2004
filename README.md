@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aseem2004](https://github.com/Aseem2004)
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@jainaseem2004)
 
 - 💬 Ask me about **Anything**
 
