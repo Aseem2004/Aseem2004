@@ -2,11 +2,10 @@
 <h1 align="center">Bonjour 👋, I'm Aseem Jain</h1>
 <h3 align="center">A passionate frontend developer | Competitive Coder | Learner</h3>
 
-<img align="right" width="300" src= "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
+<img align="right" width="400" src= "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseem2004&label=Profile%20views&color=0e75b6&style=flat" alt="aseem2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aseem2004" alt="Aseem2004's trophies" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development projects**
 
@@ -43,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aseem2004&show_icons=true&locale=en" alt="aseem2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aseem2004&" alt="aseem2004" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aseem2004" alt="Aseem2004's trophies" /></a> </p>
