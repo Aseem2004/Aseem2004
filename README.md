@@ -1,4 +1,6 @@
 ![logo](https://github.com/Aseem2004/Aseem2004/blob/main/Background%20img(Git).jpg)
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 <h1 align="center">Bonjour 👋, I'm Aseem Jain</h1>
 <h3 align="center">A passionate frontend developer | Competitive Coder | Learner</h3>
 
