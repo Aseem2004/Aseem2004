@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Web Development projects**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aseem2004](https://github.com/Aseem2004)
 
